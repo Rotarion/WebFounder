@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+.env/
+
+# IDE / Editor settings
+.vscode/
+.idea/
+
+# Logs
+logs/*.txt
+
+# If at any point you decide to keep credentials secure:
+# credentials.json
